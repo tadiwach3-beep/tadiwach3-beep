@@ -1,5 +1,4 @@
-##  👋
-👋 Tadiwa Chigumadzi 
+##  👋 Tadiwa Chigumadzi 
 
 🚀 Build. Learn. Become.
 
