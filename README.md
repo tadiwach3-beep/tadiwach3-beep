@@ -58,7 +58,7 @@ I'm [Your Name] — a [profession / role] who loves building [what you build or 
 
 ## 📫 How to reach me
 
-[<img src="assets/envelope.png" height="50px">](mailto:email@example.com)
+[<img src="assets/envelope.png" height="50px">](mailto:tadiwachigumadzi3@gmail.com)
 [<img src="assets/discord.png" height="50px">](https://discord.gg/example)
 [<img src="assets/x.png" height="50px">](https://x.com/yourhandle)
 
