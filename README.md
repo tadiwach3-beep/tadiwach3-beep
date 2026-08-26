@@ -1,4 +1,4 @@
-## Hi there 👋, my name is [Your Name]
+## Hi there 👋, my name is Tadiwa Chigumadzi 
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
@@ -13,7 +13,7 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=tadiwach3-beep)
 
-I'm [Your Name] — a [profession / role] who loves building [what you build or care about] using [core tech or approach]. I focus on workable solutions, clean code, and practical open-source contributions. When I'm not coding I enjoy [short personal note — e.g., learning languages, making music, hiking].
+I'm Tadiwa Chigumadzi. — a [profession / role] who loves building [what you build or care about] using [core tech or approach]. I focus on workable solutions, clean code, and practical open-source contributions. When I'm not coding I enjoy [short personal note — e.g., learning languages, making music, hiking].
 
 ---
 
