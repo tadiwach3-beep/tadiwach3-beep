@@ -1,67 +1,32 @@
-## Hi there 👋, my name is Tadiwa Chigumadzi 
+<h1 align="center">Hi 👋, I'm Tadiwa Chigumadzi</h1>
+<h3 align="center">A passionate Web developer from Zimbabwe</h3>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![X / Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tadiwach3-beep&label=Profile%20views&color=0e75b6&style=flat" alt="tadiwach3-beep" /> </p>
 
----
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 🙋 About me
+- 🔭 I’m currently working on [Oak and Ink Studio](https://jm-staffing-solutions-pty-ltd.lovable.app/)
 
-![profile view count](https://komarev.com/ghpvc/?username=tadiwach3-beep)
+- 🌱 I’m currently learning **Python**
 
-I'm Tadiwa Chigumadzi. — a [profession / role] who loves building [what you build or care about] using [core tech or approach]. I focus on workable solutions, clean code, and practical open-source contributions. When I'm not coding I enjoy [short personal note — e.g., learning languages, making music, hiking].
+- 🤝 I’m looking for help with [Oak and Ink Studio](Source: Lovable https://share.google/45QqBndTAniu9onCo)
 
----
+- 💬 Ask me about **Html5**
 
-## 🔭 I'm currently working on
+- 📫 How to reach me **tadiwachigumadzi3@gmail.com**
 
-[<img src="assets/project-1-small.png" alt="project 1" height="120px">](https://github.com/your-username/project-1)
-[<img src="assets/project-2-small.png" alt="project 2" height="120px" style="margin-left:6.5px">](https://github.com/your-username/project-2)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tadiwa chigumadzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tadiwa chigumadzi" height="30" width="40" /></a>
+<a href="https://fb.com/tadiwa chigumadzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tadiwa chigumadzi" height="30" width="40" /></a>
+<a href="https://instagram.com/tadiwanashe1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tadiwanashe1603" height="30" width="40" /></a>
+</p>
 
-(Replace the images above with files in an `assets/` folder, or swap these for direct repo links or shields.)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tadiwach3-beep&show_icons=true&locale=en&layout=compact" alt="tadiwach3-beep" /></p>
 
-## 🌱 I’m currently learning
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tadiwach3-beep&show_icons=true&locale=en" alt="tadiwach3-beep" /></p>
 
-[![language flag or icon](assets/learning-1.svg)](https://example.com)
-[![language flag or icon](assets/learning-2.svg)](https://example.com)
-
----
-
-## 🔨 I've contributed to
-
-[<img src="assets/example-org-1.png" height="50px">](https://github.com/org/example-org-1)
-[<img src="assets/example-org-2.png" height="50px">](https://github.com/org/example-org-2)
-[<img src="assets/example-org-3.png" height="50px">](https://github.com/org/example-org-3)
-
-(Use repo/org logos or small icons in `assets/`; each icon links to your contributions or PRs.)
-
----
-
-## ✍️ I've written about
-
-[<img src="assets/article-1.png" height="100px">](https://medium.com/@your-handle/article-1)
-[<img src="assets/article-2.png" height="100px">](https://medium.com/@your-handle/article-2)
-
----
-
-## 💸 How to support me
-
-[<img src="assets/donate.png" alt="donate" width="180px">](https://example.com/donate)
-
----
-
-## 📫 How to reach me
-
-[<img src="assets/envelope.png" height="50px">](mailto:tadiwachigumadzi3@gmail.com)
-[<img src="assets/discord.png" height="50px">](https://discord.gg/example)
-[<img src="assets/x.png" height="50px">](https://x.com/yourhandle)
-
----
-
-Thanks for stopping by — feel free to connect or open an issue on any repo if you want to collaborate! 🙌
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tadiwach3-beep&" alt="tadiwach3-beep" /></p>
