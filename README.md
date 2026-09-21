@@ -64,7 +64,7 @@ Digital studio focused on websites, branding, and digital presence for businesse
 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/tadiwa-chigumadzi">
+  <a href="https://www.linkedin.com/in/tadiwa-chigumadzi-50079236b?originalSubdomain=za">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://instagram.com/tadiwanashe1603">
