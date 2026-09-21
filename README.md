@@ -77,10 +77,12 @@ Digital studio focused on websites, branding, and digital presence for businesse
 📊 GitHub Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tadiwach3-beep&show_icons=true&locale=en" alt="Tadiwa's GitHub stats"/>
-</p><p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tadiwach3-beep&show_icons=true&locale=en&layout=compact" alt="Tadiwa's top languages"/>
-</p>---
+  <img src="https://github-readme-stats.vercel.app/api?username=tadiwach3-beep&show_icons=true&locale=en" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tadiwach3-beep&layout=compact&locale=en" />
+</p>
 
 💡 Philosophy
 
